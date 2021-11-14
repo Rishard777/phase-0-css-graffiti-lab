@@ -1,1 +1,27 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+    z-index: unset;
+    background: none;
+  }
+#wall #tag-2 {
+    display: none;
+    z-index: unset;
+    background: none;
+}
+#wall #tag-3.slick {
+    display: none;
+    background: none;
+    z-index: unset;
+    position: unset;
+
+}
+.parent {display: none;}
+div {display: none;}
+body {
+    background: none;
+    background-size: unset;
+    margin: 0;
+
+}
+head {display: unset;}
